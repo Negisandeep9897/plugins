@@ -1,0 +1,240 @@
+@media only screen and (max-width: 1500px){
+
+}
+
+@media only screen and (max-width: 1400px){
+
+}
+
+@media only screen and (max-width: 1300px){
+
+
+}
+@media only screen and (max-width: 1200px) {
+
+}
+@media only screen and (max-width: 1150px){
+	
+
+}
+@media only screen and (max-width: 1100px){
+
+
+}
+
+@media only screen and (max-width: 1024px){
+
+}
+
+
+@media only screen and (max-width: 992px){
+	
+}
+@media only screen and (max-width: 991px){
+
+}
+
+@media only screen and (max-width: 850px){
+	
+}
+
+@media only screen and (max-width: 768px){
+
+}
+@media only screen and (max-width: 767px){
+	p{
+		font-size:16px !important;
+		line-height: 1.5 !important;
+	}
+	label{
+		font-size:16px !important;
+		line-height: 30px !important;
+	}	
+	.welcome-sec {
+		padding: 40px 0;
+	}
+
+	.purchase {
+		padding: 20px 10px;
+		
+	}
+	.welcome-sec .oppnity-text h1 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	.welcome-sec .oppnity-text h2 {
+		font-size: 22px;
+		line-height: 30px;
+
+	}
+	.dreamer {
+		background: #ccc;
+		display: inline-block;
+		margin-bottom: 15px;
+	}
+	.welcome-sec .update-text h2 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.welcome-sec .purchase.form-area {
+		padding: 20px 15px 20px 15px;
+	}
+	.welcome-sec .form-part form aside {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.welcome-sec .form-part aside.full-power {
+		flex-direction: column;
+	}
+	.welcome-sec .form-part a {
+		margin: 10px 0 0 0;
+	   
+	}
+	.legal-sec .hr-part {
+		flex-direction: column;
+	}
+	.purchase.about-two {
+		padding: 20px;
+	}
+	.about-two h6 {
+		font-size: 24px;
+		line-height: 32px;
+	}
+	.about-two p {
+		font-size: 16px;
+		line-height: 28px;
+	   
+	}
+	.welcome-sec .purchase.about-two.thanks-page label {
+		display: inline;
+	}
+	.welcome-sec .already {
+		padding:20px;
+	 
+	}
+	.welcome-sec .founded aside {
+		padding: 0 0px 0 0px;
+	}
+	.source-area figure {
+		margin: 0;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.source-area {
+		flex-direction: column;
+	}
+	.welcome-sec .oppnity-text p {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.welcome-sec .already h6 {
+		font-size: 16px;
+		line-height: 24px;
+		margin-top: 0;
+	}
+	.welcome-sec .purchase.about-two.your-new input[type=submit] {
+		height: 50px;
+		margin: 0;
+	}
+	.welcome-sec .purchase.about-two label {
+		padding: 10px 0 10px 0;
+		line-height: 30px;
+	}
+	.welcome-sec .purchase.about-two.thanks-page label {
+		font-size: 15px;
+	}
+	.purchase.about-two.thanks-page h6 {
+		font-size: 18px;
+	}
+	.slider_portal input[type="radio"] {
+		box-sizing: border-box;
+		padding: 0;
+		height: 1em;
+		width: 30px;
+		font-size: 16px;
+	}
+	.slider_portal .thanks_portal input[type="radio"] {
+		width: 30px;
+		margin-top: 7px !important;
+	}
+	.purchase.about-two {
+		padding: 20px;
+	}
+	.slider_portal .purchase.about-two h6 {
+		font-size: 23px;
+	}
+	.thanks_portal input {
+		margin: 0;
+	}
+	.welcome-sec.get-started-sec .source figure input {
+		margin: 8px 0px;
+	}
+	.slider_portal .welcome-sec input[type="number"] {
+		width: 100%;
+		max-width: 100%;
+	}
+	.templateWidth {
+		padding: 0;
+	}
+	.slider_portal .slick-list.slick_height.have_you_height {
+		height: auto !important;
+	}
+	.slider_portal .slick-list.slick_height.have_you_height.have_determined_height {
+		height: 2774px !important;
+	}
+	.slider_portal .slick-list.auto_height.have_you_height {
+		height: 2659px !important;
+	}
+}
+@media only screen and (max-width: 700px){
+
+}
+
+
+@media only screen and (max-width: 620px) {
+
+	
+}
+
+@media only screen and (max-width: 580px){
+
+}
+
+@media only screen and (max-width: 550px){
+	
+}
+
+@media only screen and (max-width: 480px){	
+
+}
+
+@media only screen and (max-width: 414px){
+
+
+}
+
+@media only screen and (max-width: 411px){
+	
+}
+
+@media only screen and (max-width: 395px){
+	
+}
+
+@media only screen and (max-width: 375px){
+
+}
+
+@media only screen and (max-width: 360px){
+	
+}
+
+@media only screen and (max-width: 320px) {
+.founded label {
+    font-size: 15px;
+    line-height: 32px;
+    color: #fff;
+    font-weight: 400;
+    margin: 0;
+}
+}

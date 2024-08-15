@@ -1,0 +1,99 @@
+li#toplevel_page_view-questions ul.wp-submenu.wp-submenu-wrap li:last-child {
+    display: none;
+}
+.question_portal {
+    padding: 10px;
+}
+.have_you_yes {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.have_you_yes .have_you {
+    flex: 0 0 46%;
+    padding: 7px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+.question_view_data .heading {
+    font-size: 14px;
+    font-weight: 600;
+}
+.question_view_data .main_heading {
+    font-size: 18px;
+    font-weight: 600;
+	margin: 10px 15px;
+	padding-top: 25px;
+}
+.question_portal_view {
+    padding: 25px 0;
+}
+.question_portal_view a.back {
+    font-size: 14px;
+    background: #2271b1;
+    padding: 7px 11px;
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+h2.question_portal_view_head {
+    font-size: 20px;
+}
+.questions_row .col {
+    margin-left: 40px;
+}
+.orders_portal table tr th {
+    font-weight: 700;
+}
+.orders_portal table tr td.term_td input {
+    width: 100%;
+    max-width: 80px;
+}
+.orders_portal table tr td.term_td label {
+    font-size: 11px;
+}
+.question_articles_col {
+    overflow-x: scroll;
+    height: 300px;
+}
+.question_articles_col .full_question {
+    width: 100%;
+    display: flex;
+    margin: 7px 0;
+}
+.question_articles_col .full_question input[type=checkbox] {
+    margin: 5px;
+}
+.orders_heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+	padding-right: 30px;
+}
+.orders_portal {
+    padding: 27px 0;
+}
+.orders_portal input[type=number]::-webkit-inner-spin-button, 
+.orders_portal input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+.orders_heading input[type="submit"] {
+    padding: 10px 30px;
+    background: #2271b1;
+    border: 1px solid;
+    color: #fff;
+    border-radius: 9px;
+	cursor: pointer;
+}
+.question_portal a:hover {
+    text-decoration: underline;
+}
+.business_brokers h1 {
+    margin: 33px 33px 0 33px;
+}
+.business_brokers {
+    padding-left: 12px;
+}
