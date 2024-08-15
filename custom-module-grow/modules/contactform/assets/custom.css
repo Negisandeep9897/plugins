@@ -1,0 +1,69 @@
+.cntact_form_ubb input,.cntact_form_ubb textarea{
+    width: 100%;
+    border-style: solid;
+    border-width: 0;
+    background-clip: border-box;
+    border-color: #cccccc;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    text-align: left;
+    color: #333333;
+    vertical-align: middle;
+    padding: 16px 15px;
+    font-family: inherit;
+}
+.uabb-form-outter, .uabb-form-outter-textarea{
+    margin-bottom: 10px;
+}
+.cntact_form_ubb ::-webkit-input-placeholder { /* Edge */
+  color: #000;
+}
+
+.cntact_form_ubb :-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #000;
+}
+
+.cntact_form_ubb ::placeholder {
+  color: #000;
+}
+
+.cntact_form_ubb textarea {
+    min-height: 130px;
+}
+.cntact_form_ubb button.uabb-contact-form-submit {
+    background: #0078d4;
+    padding: 12px 24px;
+    color: #fff;
+    border: none;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    border-radius: 5px;
+    text-align: center;
+}
+.cntact_form_ubb button.uabb-contact-form-submit:hover{
+    background: #000000;
+}
+.uabb-submit-btn {
+    text-align: center;
+}
+.error {
+    color: red;
+    font-family: initial;
+    font-size: initial;
+}
+.msg_success{
+    display: none;
+    padding: 50px;
+}
+.cntact_form_ubb .error {
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0px;
+}
